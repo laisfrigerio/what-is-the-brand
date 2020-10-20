@@ -1,0 +1,132 @@
+{
+    "logos": [
+        {
+            "type": "icon",
+            "path": "amazon.svg"
+        },
+        {
+            "type": "brand-name",
+            "name": "Amazon"
+        },
+        {
+            "type": "icon",
+            "path": "dartlang.svg"
+        },
+        {
+            "type": "brand-name",
+            "name": "Dart"
+        },
+        {
+            "type": "icon",
+            "path": "firebase.svg"
+        },
+        {
+            "type": "brand-name",
+            "name": "Firebase"
+        },
+        {
+            "type": "icon",
+            "path": "git.svg"
+        },
+        {
+            "type": "brand-name",
+            "name": "Git"
+        },
+        {
+            "type": "icon",
+            "path": "html5.svg"
+        },
+        {
+            "type": "brand-name",
+            "name": "HTML5"
+        },
+        {
+            "type": "icon",
+            "path": "laravel.svg"
+        },
+        {
+            "type": "brand-name",
+            "name": "Laravel"
+        },
+        {
+            "type": "icon",
+            "path": "mongodb.svg"
+        },
+        {
+            "type": "brand-name",
+            "name": "MongoDB"
+        },
+        {
+            "type": "icon",
+            "path": "pugjs.svg"
+        },
+        {
+            "type": "brand-name",
+            "name": "Pug"
+        },
+        {
+            "type": "icon",
+            "path": "sqlite.svg"
+        },
+        {
+            "type": "ibrand-namecon",
+            "path": "SQLite"
+        },
+        {
+            "type": "icon",
+            "path": "twitch.svg"
+        },
+        {
+            "type": "brand-name",
+            "name": "Twitch"
+        },
+        {
+            "type": "icon",
+            "path": "typescript.svg"
+        },
+        {
+            "type": "brand-name",
+            "name": "Typescript"
+        },
+        {
+            "type": "icon",
+            "path": "zeplin.svg"
+        },
+        {
+            "type": "brand-name",
+            "name": "Zeplin"
+        },
+        {
+            "type": "icon",
+            "path": "webpack.svg"
+        },
+        {
+            "type": "brand-name",
+            "name": "Webpack"
+        },
+        {
+            "type": "icon",
+            "path": "ruby.svg"
+        },
+        {
+            "type": "brand-name",
+            "name": "Ruby"
+        },
+        {
+            "type": "icon",
+            "path": "npmjs.svg"
+        },
+        {
+            "type": "brand-name",
+            "name": "NPM"
+        },
+        {
+            "type": "icon",
+            "path": "microsoft.svg"
+        },
+        {
+            "type": "brand-name",
+            "name": "Microsoft"
+        }
+    ]
+}

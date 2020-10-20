@@ -1,0 +1,84 @@
+{
+    "logos": [
+        {
+            "type": "icon",
+            "path": "amazon.svg",
+            "slug": "amazon"
+        },
+        {
+            "type": "brand-name",
+            "name": "Amazon",
+            "slug": "amazon"
+        },
+        {
+            "type": "icon",
+            "path": "dartlang.svg",
+            "slug": "dartlang"
+        },
+        {
+            "type": "brand-name",
+            "name": "Dart",
+            "slug": "dartlang"
+        },
+        {
+            "type": "icon",
+            "path": "firebase.svg",
+            "slug": "firebase"
+        },
+        {
+            "type": "brand-name",
+            "name": "Firebase",
+            "slug": "firebase"
+        },
+        {
+            "type": "icon",
+            "path": "git.svg",
+            "slug": "git"
+        },
+        {
+            "type": "brand-name",
+            "name": "Git",
+            "slug": "git"
+        },
+        {
+            "type": "icon",
+            "path": "html5.svg",
+            "slug": "html5"
+        },
+        {
+            "type": "brand-name",
+            "name": "HTML5",
+            "slug": "html5"
+        },
+        {
+            "type": "icon",
+            "path": "laravel.svg",
+            "slug": "laravel"
+        },
+        {
+            "type": "brand-name",
+            "name": "Laravel",
+            "slug": "laravel"
+        },
+        {
+            "type": "icon",
+            "path": "mongodb.svg",
+            "slug": "mongodb"
+        },
+        {
+            "type": "brand-name",
+            "name": "MongoDB",
+            "slug": "mongodb"
+        },
+        {
+            "type": "icon",
+            "path": "pugjs.svg",
+            "slug": "pugjs"
+        },
+        {
+            "type": "brand-name",
+            "name": "Pug",
+            "slug": "pugjs"
+        }
+    ]
+}

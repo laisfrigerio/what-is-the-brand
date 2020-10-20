@@ -1,0 +1,61 @@
+@import './variables/colors';
+@import './reset';
+@import './variables/rules';
+
+* {
+    font-family: 'Press Start 2P', cursive
+}
+
+.memory-game {
+    margin: 50px auto;
+    max-width: 840px;
+
+    h1 {
+        color: $text;
+        text-align: center;
+    }
+
+    .list-cards {
+        @extend %flex;
+        @extend %flex-justify-center;
+        flex-wrap: wrap;
+        margin: 50px auto 0 auto;
+
+        .card {
+            @extend %flex;
+            @extend %flex-align-center;
+            @extend %flex-justify-center;
+            background-color: $white;
+            border-radius: 1.5rem 0 1.5rem 0;
+            box-shadow: 1px 1px 4px 0px $boxShadow;
+            cursor: pointer;
+            height: 200px;
+            margin: 5px;
+            width: 200px;
+
+            &.show {
+                .question { display: none; }
+                .card-p,
+                .card-img { display: block }
+            }
+
+            .question {
+                color: $text;
+                font-size: 200px;
+                font-weight: bold;
+                text-shadow: 4px 3px #afafaf;
+                &.hide { display: none; }
+            }
+
+            .card-p,
+            .card-img {
+                display: none;
+            }
+
+            .card-p {
+                color: $text;
+                font-size: 30px;
+            }
+        }
+    }
+}

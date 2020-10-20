@@ -1,0 +1,53 @@
+{
+  "name": "whats-is-the-brand",
+  "version": "0.1.0",
+  "description": "Brand Memory Game",
+  "main": "index.js",
+  "scripts": {
+    "loc": "webpack --config webpack.config.loc.js --watch",
+    "build": "webpack --config webpack.config.prd.js",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laisfrigerio/whats-is-the-brand.git"
+  },
+  "keywords": [
+    "js",
+    "game",
+    "memory",
+    "memory-game",
+    "brand",
+    "html",
+    "css",
+    "sass",
+    "pug"
+  ],
+  "author": "Lais Frigerio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laisfrigerio/what-is-the-brand/issues"
+  },
+  "homepage": "https://github.com/laisfrigerio/what-is-the-brand#README",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/preset-env": "^7.12.1",
+    "babel-loader": "^8.1.0",
+    "clean-webpack-plugin": "^3.0.0",
+    "copy-webpack-plugin": "^6.2.1",
+    "css-loader": "^5.0.0",
+    "html-webpack-plugin": "^4.5.0",
+    "jest": "^26.5.3",
+    "jest-babel": "^1.0.1",
+    "mini-css-extract-plugin": "^1.0.0",
+    "node-sass": "^4.14.1",
+    "pug": "^3.0.0",
+    "pug-loader": "^2.4.0",
+    "sass-loader": "^10.0.3",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^4.0.0",
+    "webpack-merge": "^4.2.2"
+  }
+}
