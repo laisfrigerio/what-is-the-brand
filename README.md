@@ -36,6 +36,11 @@ A Memory Card game made with pure javascript 💜
     npm run test:coverage
 ```
 
+## Next steps
+
+- Update to webpack@5
+- Add levels
+
 ## :woman: Author
 
 [@laisfrigerio](https://github.com/laisfrigerio/)
