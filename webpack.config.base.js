@@ -33,14 +33,12 @@ module.exports = {
 
   plugins: [
     new CleanWebpackPlugin(),
-    new CopyWebpackPlugin({
-      patterns: [
-        {
-          from: path.resolve(__dirname, 'resources', 'images'),
-          to: path.resolve(__dirname, 'public', 'images')
-        }
-      ]
-    }),
+    new CopyWebpackPlugin([
+      {
+        from: path.resolve(__dirname, 'resources', 'images'),
+        to: path.resolve(__dirname, 'public', 'images')
+      }
+    ]),
     new HtmlWebpackPlugin({
       template: path.resolve(__dirname, 'resources', 'templates', 'index.pug'),
       filename: 'index.html'
