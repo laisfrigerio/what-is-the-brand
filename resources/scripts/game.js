@@ -113,7 +113,7 @@ export default class Game {
      */
     end = () => {
         if (this.finalResponse.length === this.level) {
-            alert("Você conclui a partida!!! Pressione f5 para jogar novamente");
+            alert("Você concluiu a partida!!! Pressione f5 para jogar novamente");
         }
     }
 }

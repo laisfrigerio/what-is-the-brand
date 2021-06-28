@@ -57,12 +57,12 @@ export const setAttribute = (node, attr, value) => {
 /**
  * Add values into array (uniques) random
  */
-export const sortArr = (level) => {
-    if (level === 0) return [];
+export const sortArr = (size) => {
+    if (size === 0) return [];
 
     let arr = [];
-    while(arr.length < level) {
-        const r = Math.floor(Math.random() * level);
+    while(arr.length < size) {
+        const r = Math.floor(Math.random() * size);
         arr = insert(arr, r);
     }
     return arr;

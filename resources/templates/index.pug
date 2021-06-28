@@ -7,6 +7,10 @@ html(lang="pt-BR")
     body
         main(class="memory-game")
             h1 What is the brand?
+            div(class="levels")
+                button(type="button" class="item-80 start" data-level="easy") Fácil
+                button(type="button" class="item-70 start" data-level="intermediary") Intermediário
+                button(type="button" class="item-90 start" data-level="high") Díficil
             ul(class="list-cards")
                 each item in [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
                     li(class="card")

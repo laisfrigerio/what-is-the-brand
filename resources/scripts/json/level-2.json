@@ -1,130 +1,162 @@
 {
     "logos": [
         {
+            "slug": "amazon",
             "type": "icon",
             "path": "amazon.svg"
         },
         {
+            "slug": "amazon",
             "type": "brand-name",
             "name": "Amazon"
         },
         {
+            "slug": "dartlang",
             "type": "icon",
             "path": "dartlang.svg"
         },
         {
+            "slug": "dartlang",
             "type": "brand-name",
             "name": "Dart"
         },
         {
+            "slug": "firebase",
             "type": "icon",
             "path": "firebase.svg"
         },
         {
+            "slug": "firebase",
             "type": "brand-name",
             "name": "Firebase"
         },
         {
+            "slug": "git",
             "type": "icon",
             "path": "git.svg"
         },
         {
+            "slug": "git",
             "type": "brand-name",
             "name": "Git"
         },
         {
+            "slug": "html5",
             "type": "icon",
             "path": "html5.svg"
         },
         {
+            "slug": "html5",
             "type": "brand-name",
             "name": "HTML5"
         },
         {
+            "slug": "laravel",
             "type": "icon",
             "path": "laravel.svg"
         },
         {
+            "slug": "laravel",
             "type": "brand-name",
             "name": "Laravel"
         },
         {
+            "slug": "mongodb",
             "type": "icon",
             "path": "mongodb.svg"
         },
         {
+            "slug": "mongodb",
             "type": "brand-name",
             "name": "MongoDB"
         },
         {
+            "slug": "pugjs",
             "type": "icon",
             "path": "pugjs.svg"
         },
         {
+            "slug": "pugjs",
             "type": "brand-name",
             "name": "Pug"
         },
         {
+            "slug": "sqlite",
             "type": "icon",
             "path": "sqlite.svg"
         },
         {
+            "slug": "sqlite",
             "type": "ibrand-namecon",
             "path": "SQLite"
         },
         {
+            "slug": "twitch",
             "type": "icon",
             "path": "twitch.svg"
         },
         {
+            "slug": "twitch",
             "type": "brand-name",
             "name": "Twitch"
         },
         {
+            "slug": "typescript",
             "type": "icon",
             "path": "typescript.svg"
         },
         {
+            "slug": "typescript",
             "type": "brand-name",
             "name": "Typescript"
         },
         {
+            "slug": "zeplin",
             "type": "icon",
             "path": "zeplin.svg"
         },
         {
+            "slug": "zeplin",
             "type": "brand-name",
             "name": "Zeplin"
         },
         {
+            "slug": "webpack",
             "type": "icon",
             "path": "webpack.svg"
         },
         {
+            "slug": "webpack",
             "type": "brand-name",
             "name": "Webpack"
         },
         {
+            "slug": "ruby",
             "type": "icon",
             "path": "ruby.svg"
         },
         {
+            "slug": "ruby",
             "type": "brand-name",
             "name": "Ruby"
         },
         {
+            "slug": "npmjs",
             "type": "icon",
             "path": "npmjs.svg"
         },
         {
+            "slug": "npmjs",
             "type": "brand-name",
             "name": "NPM"
         },
         {
+            "slug": "microsoft",
             "type": "icon",
             "path": "microsoft.svg"
         },
         {
+            "slug": "microsoft",
             "type": "brand-name",
             "name": "Microsoft"
         }

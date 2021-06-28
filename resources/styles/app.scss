@@ -15,6 +15,17 @@
         text-align: center;
     }
 
+    .levels {
+        text-align: center;
+        button {
+            background-color: $text;
+            color: $white;
+            cursor: pointer;
+            margin-right: 5px;
+            padding: 5px 7px;
+        }
+    }
+
     .list-cards {
         @extend %flex;
         @extend %flex-justify-center;
